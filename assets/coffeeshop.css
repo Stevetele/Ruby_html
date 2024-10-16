@@ -1,0 +1,9 @@
+h1{
+    text-align: center;color: darkgreen;background-color: yellow;text-underline: black;text-underline-style: dashed-heavy;
+}
+p1{
+    font-family: Jokerman;color: orangered;background-color: beige;padding: 10px;box-shadow: chartreuse;
+}
+div{
+    margin: 15px;background-color: chartreuse;font-size: medium;letter-spacing: normal;animation: ease-in;animation-duration: inherit;align-content: space-evenly;vertical-align: 5.5px;
+}

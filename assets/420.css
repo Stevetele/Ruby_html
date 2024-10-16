@@ -1,0 +1,48 @@
+h1{
+    font-size: medium;font: -apple-system-body;color: chocolate;text-shadow: black;text-underline: black;text-decoration: blink;
+}
+p1{
+    text-indent: hanging;font: message-box;font-size: inherit;margin: auto;
+    padding: 15;
+    letter-spacing: normal;
+
+}
+.Sativa{
+    border: dashed;
+    background-color: ghostwhite;
+    padding: 8.5px;
+    font-size: medium;
+    table-layout: fixed;
+    table{
+        text-align: center;
+        mso-table-anchor-vertical: margin;
+        border: chartreuse;
+        font-size: medium;
+        background: #faf8f2;
+            font-style: italic;
+        color: #651d1d;
+    }
+
+
+
+}
+p2{
+    align-content: space-evenly;
+    h2{
+        text-align: center;
+    }
+    color: gold;
+    background: black;
+    background-color: white;
+    font: italic;
+    font-size: medium;
+    padding: 20px;
+    .Indica{
+        font-style: normal;
+        font: ordinal;
+        padding: 20px;
+        border: 5.5px;
+        background-color: antiquewhite;
+        color: olive;
+    }
+}

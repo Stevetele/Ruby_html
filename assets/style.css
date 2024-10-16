@@ -1,0 +1,15 @@
+ul{
+    align-content: space-evenly;margin: 4px;horiz-align: left;
+}
+li{
+    float: left;
+}
+li{
+}
+
+li{
+    navbutton_next_hovered: url("www.safaricom.com");
+}
+li a{
+    display: block;padding: 15px;text-decoration: none;color: green;
+}
