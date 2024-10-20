@@ -1,0 +1,89 @@
+h1{
+    font-family: "Times New Roman";
+    font-size: 15px;
+    text-align: left;
+    color: black;
+    background: none;
+    padding: 15px;
+}
+body{
+    p1{
+        font-family: Dubai; "Times New Roman";
+        font-size:1.5cm;
+        color: peru;
+        background: red;
+        background-color: transparent;
+        text-indent: hanging;
+        border-radius: 5px;
+    }
+    form{
+        letter-spacing: normal;
+        background-blend-mode: normal;
+        background: image(gold);
+        select{
+            option{
+                pointer-events: auto;
+                cursor: pointer;
+                color: midnightblue;
+                background-color: white;
+                text-align: center;
+
+            }
+        }
+        button{
+            cursor: pointer;
+            border-radius: 5px;
+            background-color: cadetblue;
+            margin: 0px;
+            color: red;
+            padding: 10.5px;
+            border: none;
+        }
+        div{
+            button{
+                color: lightgrey;
+                background-color: white;
+                border: none;
+                border-radius: 5.5px;
+                cursor: grab;
+                cursor{
+                    color: lime;
+                }
+
+            }
+            background-image: image(src"assets/images/pexels-pixabay-39855.jpg");
+            background-attachment: scroll;
+            background-blend-mode: color;
+            padding: 8px;
+            margin: 0px;
+            border-radius: 5px;
+            text-align: justify;
+        }
+        div{
+           nav li ul{transition-property: transform;
+               transition-duration: 200ms;
+               transition-timing-function: ease-in;
+               transform: scale(1,0);
+               transform-origin: top center;
+
+            }
+            nav li:hover ul
+        }
+
+
+    }
+    table{
+        text-align: center;
+        margin: auto;
+        border: hidden;
+        font-family: Century;
+        color: lightyellow;
+        background-color: mediumblue;
+        solid-opacity: var(20px);
+        table-layout: auto;
+        padding: 15px;15px
+
+
+    }
+
+}
